@@ -4,7 +4,7 @@
 
 I am Patryk Smakosz 🙋🏻‍♂️, a Audiophile, Rodent lover, Front End Developer / Animatior, Web Developer Evangelist & Computing Consultant.
 
-I am a Vue JS Specialist, a GreenSock Animation Platform animator, an technology enthusiast, a dreams excecutioner, a JavaScript Developer, WordPress magician and I want to be better at what I do.
+I am a Vue JS Specialist, a GreenSock Animation Platform animator, an technology enthusiast, a dreams excecutioner, a JavaScript Developer, WordPress magician and I'm chasing perfection at what I do.
 
 ## Connect with Me 🤝🏻
 
