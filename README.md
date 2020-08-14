@@ -8,4 +8,5 @@ I am a Vue JS Specialist, a GSAP sock wearer, an technology enthusiast, a dreams
 
 ## Connect with Me 🤝🏻
 
-![Dino](https://raw.githubusercontent.com/patsma/patsma/master/dino.gif)
+
+[![Dino](https://raw.githubusercontent.com/patsma/patsma/master/dino.gif)](https://twitter.com/TastySites)
