@@ -10,4 +10,4 @@ I am a Vue JS Specialist, a GreenSock Animation Platform animator, and technolog
 [![Twitter](https://raw.githubusercontent.com/patsma/patsma/master/twitter-new.svg)](https://twitter.com/TastySites)
 
 
-[![Dino](https://raw.githubusercontent.com/patsma/patsma/master/family.svg)](https://tastysites.pl/animations/)
+[![Dino](https://raw.githubusercontent.com/patsma/patsma/master/logo.svg)](https://tastysites.pl)
